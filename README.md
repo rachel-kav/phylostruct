@@ -15,6 +15,14 @@ Phylostructural analysis using R and shell scripting. This project contains pipe
   - `dplyr`
   - (list others as needed)
 
+## Set up environment
+```{bash}
+git clone https://github.com/rachel-kav/phylostruct
+cd phylostruct
+
+
+
+```
 ## How to Run
 
 ### Shell pipeline:
